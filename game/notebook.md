@@ -6,7 +6,7 @@
 - [ ] The Teacher
 
 ## Weapons
-- [ ] Glass Bottle
+- [X] Glass Bottle
 - [ ] Fountain Pen
 - [ ] Brass Bell
 
