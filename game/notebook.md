@@ -13,6 +13,12 @@
 ## Notes
 *Use this space to record your findings and deductions...*
 
+----------Conclusion----------
+
+Arma homicida: Fountain Pen
+
+Habitacion del asesinato: Science lab
+
 ----------Places Check----------
 
 *houses
@@ -22,6 +28,10 @@
 	-gazebo --- check
 	-playground --- check
 	-pond --- check
+*school
+	cafeteria --- check
+	classrooms ---
+	gymnasium ---
 
 ---------------Clue Found---------------
 
@@ -56,6 +66,25 @@ Remember that you can use multiple '../' to go up multiple levels:
 - 'cd ..'    goes up one level
 - 'cd ../..' goes up two levels
 - and so on...
+
+----------clue 4----------
+Investigation Update:
+
+You notice fresh footprints leading towards the science lab.
+
+Remember: Use 'cd "science lab"' to follow this lead.
+
+----------clue 5----------
+Investigation Conclusion:
+
+The perfect preservation of this room tells you everything - this is definitely the crime scene!
+
+Your careful detective work has paid off. The empty state of this room matches
+witness accounts - no one was around when the crime occurred. This must be
+where the murderer carried out their plan!
+
+Make sure to document this discovery in your notebook.md file along with your
+other findings about the weapon and suspect.
 
 
 
