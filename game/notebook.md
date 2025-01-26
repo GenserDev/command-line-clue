@@ -8,7 +8,7 @@
 ## Weapons
 - [X] Glass Bottle
 - [ ] Fountain Pen
-- [ ] Brass Bell
+- [X] Brass Bell
 
 ## Notes
 *Use this space to record your findings and deductions...*
@@ -18,6 +18,10 @@
 *houses
 	-garden ---check
 	-mansion ---check
+*park
+	-gazebo --- check
+	-playground --- check
+	-pond --- check
 
 ---------------Clue Found---------------
 
@@ -40,5 +44,19 @@ Remember that you can use multiple '../' to go up multiple levels:
 - 'cd ..'    goes up one level
 - 'cd ../..' goes up two levels
 - and so on...
+
+----------clue 3----------
+
+New Clue:
+
+Go to the classrooms in the school.
+
+Hint: You'll need to go back several directories to reach this location.
+Remember that you can use multiple '../' to go up multiple levels:
+- 'cd ..'    goes up one level
+- 'cd ../..' goes up two levels
+- and so on...
+
+
 
 Location of the crime is still unknown - the room must have been empty when it happened...
