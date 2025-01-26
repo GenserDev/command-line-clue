@@ -1,0 +1,5 @@
+Investigation Update:
+
+You notice fresh footprints leading towards the science lab.
+
+Remember: Use 'cd "science lab"' to follow this lead.
