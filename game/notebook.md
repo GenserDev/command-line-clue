@@ -19,6 +19,12 @@ Arma homicida: Fountain Pen
 
 Habitacion del asesinato: Science lab
 
+Asesino: The Teacher
+
+(No se pude concluir al 100% dado a que no habia posibilidad de descartar a nadie
+dado a que todos los archivos persons.txt venian vacios, por lo que el culpable 
+se elegio a base de mi criterio)
+
 ----------Places Check----------
 
 *houses
@@ -30,8 +36,14 @@ Habitacion del asesinato: Science lab
 	-pond --- check
 *school
 	cafeteria --- check
-	classrooms ---
-	gymnasium ---
+	classrooms --- check
+	gymnasium --- check
+*shops
+	bakery --- check
+	cafe --- check
+	market --- check
+*town hall
+	offices --- check
 
 ---------------Clue Found---------------
 
